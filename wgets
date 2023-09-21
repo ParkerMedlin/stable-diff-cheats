@@ -1,7 +1,10 @@
 #ControlNet
+cd workspace/stable-diffusion-web-ui/models/ControlNet
 wget -O qrcodemonster.safetensors https://huggingface.co/monster-labs/control_v1p_sd15_qrcode_monster/resolve/main/v2/control_v1p_sd15_qrcode_monster_v2.safetensors
 
 #checkpoints
+cd ..
+cd Stable-Diffusion
 wget -O landscape.safetensors https://civitai.com/api/download/models/148587
 wget -O absolutereality.safetensors https://civitai.com/api/download/models/132760
 wget -O deliberate_v3.safetensors https://civitai.com/api/download/models/156110
