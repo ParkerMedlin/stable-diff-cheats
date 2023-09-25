@@ -1,5 +1,13 @@
+POSITIVE
 masterpiece:1.4), (best quality), (detailed), BREAK
-
 birds eye view, maze runner, concrete walls, vine growth, maze, spooky, concrete, stone, old, chipped
-
+NEGATIVE
 (worst quality, poor details:1.4), lowres, (artist name, signature, watermark:1,4), bad-artist-anime, bad_prompt_version2, bad-hands-5, ng deepnegative_v1_75t, painting
+
+--------------------------------
+POSITIVE
+(masterpiece:1.4), (best quality), (detailed), BREAK
+Medieval village scene with busy streets and castle in the distance
+NEGATIVE
+(worst quality, poor details:1.4), lowres, (artist name, signature, watermark:1.4), bad-artist-anime, bad_prompt_version2,  bad-hands-5, ng_deepnegative_v1_75t
+Steps: 20, VAE: kl-f8-anime2.ckpt, Size: 512x512, Seed: 2145122936, Model: control_v1p_sd15_qrcode_monster [a6e58995], Weight: 1.5, "Module: none, Version: v1.6.0, Sampler: Euler a, Low Vram: False, VAE hash: df3c506e51, CFG scale: 7, Clip skip: 2, Model hash: 6bcbe0706f, Resize Mode: Crop and Resize, bad-hands-5: aa7651be154c, Control Mode: Balanced", Guidance End: 1, Hires upscale: 2, Pixel Perfect: True, Guidance Start: 0, Hires upscaler: R-ESRGAN 4x+ Anime6B, "bad-artist-anime: 5f7bea88750c, Denoising strength: 0.7, bad_prompt_version2: 6f35e7dd816a, ng_deepnegative_v1_75t: 54e7e4826d53"
