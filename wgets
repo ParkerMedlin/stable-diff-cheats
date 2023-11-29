@@ -8,3 +8,4 @@ cd Stable-Diffusion
 wget -O landscape.safetensors https://civitai.com/api/download/models/148587
 wget -O absolutereality.safetensors https://civitai.com/api/download/models/132760
 wget -O deliberate_v3.safetensors https://civitai.com/api/download/models/156110
+wget -O sd_xl_turbo.safetensors https://huggingface.co/stabilityai/sdxl-turbo/resolve/main/sd_xl_turbo_1.0.safetensors?download=true
