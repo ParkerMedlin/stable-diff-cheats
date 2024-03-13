@@ -1,0 +1,17 @@
+PXLPSHR | RUMOR
+wget "https://civitai.com/api/download/models/89010"
+
+SHATTER | AnimateDiff Motion LoRA
+wget "https://civitai.com/api/download/models/350715"
+
+Simple LCM img2vid workflow | ComfyUI
+wget "https://civitai.com/api/download/models/375294"
+
+Simple LCM txt2vid Workflow for ComfyUI
+wget "https://civitai.com/api/download/models/350807"
+
+Bubbling Rings | AnimateDiff Motion LoRA
+wget "https://civitai.com/api/download/models/371646"
+
+Explosive | AnimateDiff Motion LoRA
+wget "https://civitai.com/api/download/models/385286"
