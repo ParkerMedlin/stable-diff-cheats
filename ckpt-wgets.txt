@@ -6,4 +6,8 @@ wget -O AnimateLCM_sd15_t2v_lora.safetensors "https://huggingface.co/wangfuyun/A
 
 
 AnimateLCM_sd15_t2v.ckpt
-wget -O AnimateLCM_sd15_t2v.ckpt "https://huggingface.co/wangfuyun/AnimateLCM/resolve/main/AnimateLCM_sd15_t2v.ckpt?download=true"
+wget -O APhoton_v1
+wget "https://civitai.com/api/download/models/90072"
+
+sd15_lora_beta.safetensors
+wget "htt

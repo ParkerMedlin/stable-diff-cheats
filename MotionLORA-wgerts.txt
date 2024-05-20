@@ -15,11 +15,3 @@ wget "https://civitai.com/api/download/models/371646"
 
 Explosive | AnimateDiff Motion LoRA
 wget "https://civitai.com/api/download/models/385286"
-
-
-wget "https://civitai.com/api/download/models/89010"
-wget "https://civitai.com/api/download/models/350715"
-wget "https://civitai.com/api/download/models/375294"
-wget "https://civitai.com/api/download/models/350807"
-wget "https://civitai.com/api/download/models/371646"
-wget "https://civitai.com/api/download/models/385286"
