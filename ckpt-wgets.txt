@@ -1,0 +1,9 @@
+Photon_v1
+wget -O photon_v1.safetensors "https://huggingface.co/digiplay/Photon_v1/resolve/main/photon_v1.safetensors?download=true"
+
+sd15_lora_beta.safetensors
+wget -O AnimateLCM_sd15_t2v_lora.safetensors "https://huggingface.co/wangfuyun/AnimateLCM/resolve/main/AnimateLCM_sd15_t2v_lora.safetensors?download=true"
+
+
+AnimateLCM_sd15_t2v.ckpt
+wget -O AnimateLCM_sd15_t2v.ckpt "https://huggingface.co/wangfuyun/AnimateLCM/resolve/main/AnimateLCM_sd15_t2v.ckpt?download=true"
